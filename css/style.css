@@ -1,0 +1,36 @@
+.cus-alert{
+    background-color: #d18787;
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    border: 2px solid black;
+}
+
+.bgcus{
+    background-color: rgb(34, 169, 169);
+}
+.prme{
+    background-color: #d18787;
+    color: black;
+    font-size: 25px;
+    border: 1px solid rgb(0, 0, 0);
+}
+.prme2{
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    border: 1px solid rgba(57, 46, 176, 0);
+}
+.prme3{
+    background-color: #ff0000;
+    color: rgb(34, 20, 144);
+    font-size: 20px;
+    border: 1px solid rgb(0, 0, 0);
+}
+.emp1{
+    background-color: rgb(0, 0, 0);
+    color: aqua;
+}
+.emp2{
+    color: rgb(255, 255, 255);
+    background-color: rgb(92, 76, 35);
+}
